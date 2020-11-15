@@ -1,0 +1,7 @@
+E:\oop2\rat1\rat1\bin\Debug\rat1.exe.config
+E:\oop2\rat1\rat1\bin\Debug\rat1.exe
+E:\oop2\rat1\rat1\bin\Debug\rat1.pdb
+E:\oop2\rat1\rat1\obj\Debug\rat1.csprojAssemblyReference.cache
+E:\oop2\rat1\rat1\obj\Debug\rat1.csproj.CoreCompileInputs.cache
+E:\oop2\rat1\rat1\obj\Debug\rat1.exe
+E:\oop2\rat1\rat1\obj\Debug\rat1.pdb
